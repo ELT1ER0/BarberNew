@@ -1,9 +1,3 @@
-<center>
-
-![Logo](Img/Readme.png)
-
-</center>
-
 <p align="center">
   💻 Desenvolvedor Front-End |💈Criador do BarberNew💈  
 </p>
